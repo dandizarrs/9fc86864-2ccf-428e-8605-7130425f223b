@@ -2,3 +2,5 @@
 1672179553.561427s 1 https://api.dandiarchive.org/api/zarr/9fc86864-2ccf-428e-8605-7130425f223b.zarr/0/0/0/11/4/61
 1673190112.100312s 1 https://dandiarchive.s3.amazonaws.com/zarr/9fc86864-2ccf-428e-8605-7130425f223b/0/0/0/11/4/61?versionId=qfLpyK2O2gIbm9hEWqUCYVXRPHM7wRqG
 1673190112.179063s 1 https://api.dandiarchive.org/api/zarr/9fc86864-2ccf-428e-8605-7130425f223b/files?prefix=0%2F0%2F0%2F11%2F4%2F61&download=true
+1673620259.53591s 1 https://dandiarchive.s3.amazonaws.com/zarr/9fc86864-2ccf-428e-8605-7130425f223b/0/0/0/11/4/61?versionId=x.8NnvjGAWbD_TWMn.ZphjSfLxk4Kh06
+1673620259.541839s 1 https://api.dandiarchive.org/api/zarr/9fc86864-2ccf-428e-8605-7130425f223b/files?prefix=0%2F0%2F0%2F11%2F4%2F61&download=true
